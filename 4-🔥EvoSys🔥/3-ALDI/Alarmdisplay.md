@@ -1,7 +1,7 @@
 ---
-created: 2024-03-30 at 23:48
+created: 2024-03-30 at 23:50
 aliases:
-  - "📜 - Class Note:"
+  - "📜 - Class Note: Alarmdisplay"
 tags:
   - Course/
   - /Note
