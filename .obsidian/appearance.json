@@ -1,0 +1,17 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "evelf_arc-en-ciel_right-workspace-icons",
+    "evelf_arc-en-ciel_outline",
+    "evelf_arc-en-ciel_left-ribbon-icons",
+    "evelf_arc-en-ciel_folder-nav",
+    "Style_1",
+    "extended-colorschemes"
+  ],
+  "accentColor": "#7031af",
+  "nativeMenus": false,
+  "translucency": false,
+  "showViewHeader": true,
+  "baseFontSize": 18,
+  "theme": "obsidian"
+}
