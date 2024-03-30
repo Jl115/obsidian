@@ -6,6 +6,15 @@ tags:
 HomeVersion: 1.0
 ---
 # 🔥 - EvoSys
+> [!info] 
+>```dataview
+>TABLE WITHOUT ID
+>link(file.link) as "Subject"
+>FROM #evosys  
+>SORT file.name DESC
+>```
+
+---
 
 # ⚡︎ - Angular
 > [!info] 

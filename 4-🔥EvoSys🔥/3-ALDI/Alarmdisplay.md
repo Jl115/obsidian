@@ -3,8 +3,7 @@ created: 2024-03-30 at 23:50
 aliases:
   - "📜 - Class Note: Alarmdisplay"
 tags:
-  - Course/
-  - /Note
+  - evosys
 011Version: 1
 ---
 # ❗ Topic

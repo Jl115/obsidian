@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b4c3cc73fb952b44",
+        "id": "7d37bbccf66a3ca6",
         "type": "tabs",
         "children": [
           {
-            "id": "bc7f678aaa09faa8",
+            "id": "9df7b188157d89f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-🔥EvoSys🔥/1-MYEV/MyEvoSys.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -50,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Softwareentwicklung/Angular",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +75,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4-🔥EvoSys🔥/1-MYEV/MyEvoSys.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -96,11 +90,11 @@
                   "collapse-display": false,
                   "showArrow": true,
                   "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 0.709708658854167,
-                  "lineSizeMultiplier": 0.760750325520833,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0.302083333333333,
-                  "repelStrength": 12.8011067708333,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.14922529936401677,
@@ -113,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232
+    "width": 481
   },
   "right": {
     "id": "01723b591f3e7b7b",
@@ -140,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "4-🔥EvoSys🔥/1-MYEV/MyEvoSys.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,7 +143,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-🔥EvoSys🔥/1-MYEV/MyEvoSys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +171,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-🔥EvoSys🔥/1-MYEV/MyEvoSys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,14 +224,15 @@
       "things3-today:Open Things3 Today": false
     }
   },
-  "active": "82dd5376b5571af7",
+  "active": "9df7b188157d89f5",
   "lastOpenFiles": [
+    "4-🔥EvoSys🔥/evosys.md",
+    "Home.md",
+    "4-🔥EvoSys🔥/1-MYEV/MyEvoSys.md",
     "4-🔥EvoSys🔥/4-AHUB/Alarmhub.md",
-    "Untitled.canvas",
     "4-🔥EvoSys🔥/3-ALDI/Alarmdisplay.md",
     "4-🔥EvoSys🔥/2-FLOR/Floriplan.md",
-    "4-🔥EvoSys🔥/1-MYEV/MyEvoSys.md",
-    "4-🔥EvoSys🔥/evosys.md",
+    "Untitled.canvas",
     "Untitled 1.md",
     "4-🔥EvoSys🔥/4-AHUB/1-Tasks",
     "4-🔥EvoSys🔥/3-ALDI/1-Tasks",
@@ -256,7 +247,6 @@
     "0-Internal/0-1-Templates/0-1-2-ClassNote.md",
     "Untitled 1.canvas",
     "0-Internal/0-1-Templates/0-1-1-ClassIndex.md",
-    "Home.md",
     "4-🔥EvoSys🔥",
     "2.2.Docker.md",
     "2023-11-25.md",

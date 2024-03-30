@@ -3,8 +3,7 @@ created: 2024-03-30 at 23:48
 aliases:
   - "📜 - Class Note: MyEvoSys"
 tags:
-  - Course/
-  - /Note
+  - evosys
 011Version: 1
 ---
 # ❗ Topic
