@@ -1,7 +1,7 @@
 ---
 created: 2023-10-16 at 21:45
 aliases:
-  - "🏫 - Class: Semester 3"
+  - "🏫 - Class: Semester 4"
 tags:
   - Course/Semester3
   - /Index
@@ -9,7 +9,6 @@ tags:
 ---
 
 # 📃 - Class - `=this.file.aliases[0]`
-
 ---
 # ❓ - Information
 Subject::
@@ -29,12 +28,7 @@ Speakers::
 ## 🎯 - Assignments
 1. 
 ## ⌛ - Module
-- [[1.0.uek295]]
-- [[2.0.Modul 347 Overview]]
-- [[Modul 426]]
-- [[Ueka 294 overview]]
-- [[2-Schule/1.semester3/5.Modul.183-ApplikationsSicherheit/183.Applikationssicherheit-Overview]]
-- [[]]
+- [[323.FunktionalProgramming]]
 - [[]]
 - [[]]
 ## 📦 - Resources

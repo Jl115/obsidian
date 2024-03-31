@@ -11,8 +11,13 @@
             "id": "9df7b188157d89f5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2-Schule/2.semester4/2.1.Funktional-Programming/LBV3-TODOs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -45,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Softwareentwicklung/Angular",
+                "query": "tag:Course/Semester4/323-Functionalprogramming",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,6 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2-Schule/2.semester4/2.1.Funktional-Programming/LBV3-TODOs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -97,7 +103,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.14922529936401677,
+                  "scale": 0.9813324030861008,
                   "close": true
                 }
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2-Schule/2.semester4/2.1.Funktional-Programming/LBV3-TODOs.md"
+              }
             }
           },
           {
@@ -143,6 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2-Schule/2.semester4/2.1.Funktional-Programming/LBV3-TODOs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,6 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2-Schule/2.semester4/2.1.Funktional-Programming/LBV3-TODOs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,9 +193,17 @@
               "type": "things3-today",
               "state": {}
             }
+          },
+          {
+            "id": "4d50248fd98f6988",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "e3a9cf194811e42e",
@@ -204,13 +222,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290
+    "width": 276
   },
   "left-ribbon": {
     "hiddenItems": {
       "handwritten-notes:Create empty handwritten note": false,
       "obsidian42-brat:BRAT": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -219,13 +236,20 @@
       "homepage:Open homepage": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "copilot:Copilot Chat": false,
+      "things3-today:Open Things3 Today": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "markdown-importer:Open format converter": false,
-      "things3-today:Open Things3 Today": false
+      "copilot:Copilot Chat": false
     }
   },
   "active": "9df7b188157d89f5",
   "lastOpenFiles": [
+    "0-Internal/0-1-Templates/TODOs Template.md",
+    "2-Schule/2.semester4/2.1.Funktional-Programming/LBV3-TODOs.md",
+    "2-Schule/2.semester4/2.1.Funktional-Programming/323.FunktionalProgramming.md",
+    "2-Schule/2.semester4/semester4 overview.md",
+    "2-Schule/1.semester3/semester3 overview.md",
+    "2-Schule/2.semester4/2.1.Funktional-Programming",
     "4-🔥EvoSys🔥/evosys.md",
     "Home.md",
     "4-🔥EvoSys🔥/1-MYEV/MyEvoSys.md",
@@ -252,17 +276,12 @@
     "2023-11-25.md",
     "2023-11-23.md",
     "2023-11-18.md",
-    "handwritten-notes/Test.pdf",
     "Untitled 2.md",
     "Untitled 3.md",
     "Excalidraw/Drawing 2024-03-29 23.47.09.excalidraw.md",
     "2-Schule/1.semester3/5.Modul.183-ApplikationsSicherheit/183.Applikationssicherheit-Overview.md",
     "2-Schule/1.semester3/5.Modul.183-ApplikationsSicherheit/23.12.2023 Schuhltag 1.md",
-    "2-Schule/1.semester3/semester3 overview.md",
     "1-Software entwicklung/Angular/Angular.md",
-    "1-Software entwicklung/Angular/2.Erweiterte Grundlagen/2.2.Service.md",
-    "1-Software entwicklung/Node.js/Node.md",
-    "1-Software entwicklung/Vue/Vue (2)Composition Api 1.2.md",
     "Pasted image 20231130094933.png",
     "0-Internal/0-4-ClassExample/0-4-1-PowerShell/0-4-1-0-Resources/Pasted image 20221022195457.png"
   ]

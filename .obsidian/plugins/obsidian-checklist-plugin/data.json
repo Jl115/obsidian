@@ -1,0 +1,22 @@
+{
+  "todoPageName": "todo\nhighPrio\nmediumPrio\nlowPrio",
+  "showChecked": false,
+  "showAllTodos": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "page",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "compact",
+  "_collapsedSections": [
+    "2-Schule/2.semester4/2.1.Funktional-Programming/TODOs Template.md",
+    "2-Schule/2.semester4/2.1.Funktional-Programming/LBV3-TODOs.md",
+    "2-Schule/2.semester4/2.1.Funktional-Programming/LBV3-TODOs 1.md"
+  ],
+  "_hiddenTags": [
+    "todo important",
+    "todo, important"
+  ]
+}
