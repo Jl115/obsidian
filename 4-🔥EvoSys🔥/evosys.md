@@ -31,6 +31,13 @@ Speakers::
 
 ## 📜 - Notes and Ideas
 -  
+```handwritten-ink
+{
+	"versionAtEmbed": "0.1.0",
+	"filepath": "undefined/Ink/Writing/2024.2.31 - 14.13am.writing"
+}
+```
+
 ## 🎯 - Assignments
 1. 
 ## ⌛ - Lectures

@@ -82,14 +82,25 @@
             "id": "07be1ca4ae03871d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-29 23.47.09.excalidraw.md"
+                "file": "4-🔥EvoSys🔥/1-MYEV/MyEvoSys.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
+            }
+          },
+          {
+            "id": "858981ec553869c6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -166,9 +177,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Excalidraw/Drawing 2024-03-29 23.47.09.excalidraw.md"
-          }
+          "state": {}
         }
       },
       {
@@ -185,7 +194,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-03-29 23.47.09.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -195,12 +203,24 @@
             "unlinkedCollapsed": true
           }
         }
+      },
+      {
+        "id": "095e816c94ad2a41",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
       }
     ],
     "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -210,11 +230,24 @@
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "handwritten-notes:Create empty handwritten note": false
+      "handwritten-notes:Create empty handwritten note": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "07be1ca4ae03871d",
+  "active": "858981ec553869c6",
   "lastOpenFiles": [
+    "1-Software entwicklung/Software overview.md",
+    "1-Software entwicklung/Vue/Vue Router.md",
+    "4-🔥EvoSys🔥/evosys.md",
+    "undefined/Ink/Writing/2024.2.31 - 14.13am.writing",
+    "4-🔥EvoSys🔥/1-MYEV/MyEvoSys.md",
+    "2-Schule/Schule Overview.md",
+    "undefined/Ink/Writing/2024.2.31 - 0.51am (2).writing",
+    "undefined/Ink",
+    "undefined",
+    "undefined/Ink/Writing/2024.2.31 - 0.51am.writing",
+    "undefined/Ink/Writing/2024.2.31 - 0.50am.writing",
+    "undefined/Ink/Writing",
     "1-Software entwicklung/Angular/2.Erweiterte Grundlagen/2.2.Service.md",
     "Excalidraw/Drawing 2024-03-29 23.47.09.excalidraw.md",
     "Excalidraw",
@@ -238,11 +271,6 @@
     "1-Software entwicklung/Angular/1.Grundlagen/1.Decorators.md",
     "The_Vault_Home.md",
     "Migration Process.md",
-    "SlipBox.md",
-    "0E_Projects/0E_3_RaspberryPI/0E_3_1_HomeServer/0E_3_1_2_HomeServer.md",
-    "0F_IT/0F_2_Linux/0F_2_0_IndexLinux.md",
-    "0F_IT/0F_2_Linux/0F_2_7_InstallApache.md",
-    "0F_IT/0F_2_Linux/0F_2_5_ApacheDeafultFolder.md",
-    "0F_IT/0F_2_Linux/0F_2_6_ApachePassword.md"
+    "SlipBox.md"
   ]
 }
