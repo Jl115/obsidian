@@ -1,7 +1,7 @@
 {
   "file-explorer": true,
   "global-search": true,
-  "switcher": false,
+  "switcher": true,
   "graph": true,
   "backlink": true,
   "outgoing-link": true,
@@ -22,7 +22,7 @@
   "audio-recorder": false,
   "workspaces": false,
   "file-recovery": true,
-  "publish": false,
+  "publish": true,
   "sync": false,
   "canvas": true,
   "properties": true,

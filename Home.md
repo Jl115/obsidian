@@ -1,9 +1,27 @@
 ---
-created: "2022-10-01 at 20:23"
-aliases: "⭐ - Index: Home"
+created: 2022-10-01 at 20:23
+aliases:
+  - "⭐ - Index: Home"
 tags:
-- "Home"
-HomeVersion: 1.0
+  - Home
+HomeVersion: 1
+cssclasses: []
+---
+
+### Ideas:
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 # 🔥 - EvoSys
 > [!info] 

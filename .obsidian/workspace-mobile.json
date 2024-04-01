@@ -4,48 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fdd9f3dc6be38ec1",
+        "id": "26f8d6d3a40dda2b",
         "type": "tabs",
         "children": [
           {
-            "id": "73ddb70b77101bff",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9958bbf362de7a75",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5788762ec7fd82ae",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "3e70048669974fc8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "eff7fe13e390061b",
+            "id": "8239fefdc93d50ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Software entwicklung/Software overview.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -53,54 +21,20 @@
             }
           },
           {
-            "id": "1e1afea4132bd252",
+            "id": "dd6377bb7e7bf217",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Schule/1.semester3/2.Modul347 Container/2.1.Docker Einführung.md",
+                "file": "999999-DailyNote/2024-04-01.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "0a1dd5e51838df25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Software entwicklung/Angular/2.Erweiterte Grundlagen/2.2.Service.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07be1ca4ae03871d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-🔥EvoSys🔥/1-MYEV/MyEvoSys.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "858981ec553869c6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +59,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "path:\"4-🔥EvoSys🔥/\" ",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -164,6 +98,14 @@
             "searchQuery": ""
           }
         }
+      },
+      {
+        "id": "9d4bedc94f5e69a3",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -177,7 +119,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "999999-DailyNote/2024-04-01.md"
+          }
         }
       },
       {
@@ -194,6 +138,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "999999-DailyNote/2024-04-01.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -210,16 +155,34 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "999999-DailyNote/2024-04-01.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
+      },
+      {
+        "id": "bf596f4e76e442f5",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {}
+        }
+      },
+      {
+        "id": "cfefa4bc47a01896",
+        "type": "leaf",
+        "state": {
+          "type": "make-context-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
       "markdown-importer:Open format converter": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -230,47 +193,49 @@
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "handwritten-notes:Create empty handwritten note": false,
-      "obsidian42-brat:BRAT": false
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "858981ec553869c6",
+  "active": "dd6377bb7e7bf217",
   "lastOpenFiles": [
-    "1-Software entwicklung/Software overview.md",
-    "1-Software entwicklung/Vue/Vue Router.md",
+    "999999-DailyNote/999999-DailyNote.md",
+    "Excalidraw/Excalidraw .md",
     "4-🔥EvoSys🔥/evosys.md",
-    "undefined/Ink/Writing/2024.2.31 - 14.13am.writing",
-    "4-🔥EvoSys🔥/1-MYEV/MyEvoSys.md",
-    "2-Schule/Schule Overview.md",
-    "undefined/Ink/Writing/2024.2.31 - 0.51am (2).writing",
-    "undefined/Ink",
-    "undefined",
-    "undefined/Ink/Writing/2024.2.31 - 0.51am.writing",
-    "undefined/Ink/Writing/2024.2.31 - 0.50am.writing",
-    "undefined/Ink/Writing",
-    "1-Software entwicklung/Angular/2.Erweiterte Grundlagen/2.2.Service.md",
-    "Excalidraw/Drawing 2024-03-29 23.47.09.excalidraw.md",
-    "Excalidraw",
-    "handwritten-notes/Test.pdf",
-    "handwritten-notes",
-    "1-Software entwicklung/Angular/2.Erweiterte Grundlagen/2.1.Export Modules.md",
+    "3-Projektideen/3-Projektideen .md",
+    "4-🔥EvoSys🔥/1-MYEV/1-MYEV .md",
+    "999999-DailyNote/2024-04-01.md",
     "Home.md",
-    "2-Schule/1.semester3/2.Modul347 Container/2.1.Docker Einführung.md",
-    "2.2.Docker.md",
-    "3-Projektideen/1-Webseite um Clouds zu verwalten/Portfolio.md",
-    "2-Schule/1.semester3/2.Modul347 Container/Schultag10-28 Dockerfile (Instalations anleitung).md",
-    "2-Schule/1.semester3/2.Modul347 Container/2.0.Modul 347 Overview.md",
-    "2-Schule/1.semester3/2.Modul347 Container/2.3.Präsentation.md",
-    "2-Schule/1.semester3/2.Modul347 Container/2.2.Docker Erweitert.md",
-    "3-Projektideen/1-Webseite um Clouds zu verwalten/CloudAllrounder.tech.md",
-    "1-Software entwicklung/Angular/1.Grundlagen/3.CSS.md",
-    "1-Software entwicklung/Angular/1.Grundlagen/4.pipes.md",
-    "1-Software entwicklung/Angular/1.Grundlagen/5.directives.md",
-    "1-Software entwicklung/Angular/Angular.md",
-    "1-Software entwicklung/Angular/1.Grundlagen/Overview Grundlagen.md",
-    "1-Software entwicklung/Angular/1.Grundlagen/1.Decorators.md",
-    "The_Vault_Home.md",
-    "Migration Process.md",
-    "SlipBox.md"
+    "999999-DailyNote",
+    "Untitled.canvas",
+    "Projectide.md",
+    "Test/S/W/Untitled/Untitled .md",
+    "Test/S/W/W .md",
+    "Test/S/W/Untitled",
+    "handwritten-notes/Test.pdf",
+    "handwritten-notes/Eq",
+    "Test/S/W/Untitled.md",
+    "Test/S/S .md",
+    "Delete/Delete .md",
+    "Test/Test .md",
+    "1-Software entwicklung/Node.js/Node.js .md",
+    "1-Software entwicklung/Angular/3.Forms/3.Forms .md",
+    "1-Software entwicklung/Angular/1.Grundlagen/1.Grundlagen .md",
+    "1-Software entwicklung/Angular/2.Erweiterte Grundlagen/2.Erweiterte Grundlagen .md",
+    "1-Software entwicklung/Angular/Angular .md",
+    "1-Software entwicklung/Vue/Grundlagen/Grundlagen .md",
+    "1-Software entwicklung/Vue/Vue .md",
+    "1-Software entwicklung/1-Software entwicklung .md",
+    "0-Internal/0-3-PluginExamples/0-3-PluginExamples .md",
+    "0-Internal/0-5-ContactExample/0-5-ContactExample .md",
+    "0-Internal/0-Internal .md",
+    "handwritten-notes/handwritten-notes .md",
+    "Test/S/W",
+    "Test/S",
+    "Delete",
+    "Test",
+    "Spaces",
+    "Ink/Writing/2024.2.31 - 14.13am.writing"
   ]
 }

@@ -26,7 +26,7 @@
   "primary-ceciliamay@@tabular-nums": true,
   "primary-ceciliamay@@scroll__scalable-fonts": false,
   "anuppuccin-theme-settings-extended@@anp-theme-ext-light": false,
-  "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": false,
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": true,
   "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": false,
   "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-coffee-dark",
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",

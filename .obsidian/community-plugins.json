@@ -9,10 +9,11 @@
   "obsidian-textgenerator-plugin",
   "copilot",
   "obsidian-excalidraw-plugin",
-  "handwritten-notes",
   "obsidian42-brat",
   "ink",
   "obsidian-things3-sync",
   "things3-today",
-  "obsidian-checklist-plugin"
+  "obsidian-checklist-plugin",
+  "folder-notes",
+  "templater-obsidian"
 ]
