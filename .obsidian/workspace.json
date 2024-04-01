@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Software entwicklung/JavaSript/JavaScript.md",
+                "file": "1-Software entwicklung/JavaSript/Hoisting.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1-Software entwicklung/JavaSript/JavaScript.md",
+                "file": "1-Software entwicklung/JavaSript/Hoisting.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Software entwicklung/JavaSript/JavaScript.md"
+                "file": "1-Software entwicklung/JavaSript/Hoisting.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Software entwicklung/JavaSript/JavaScript.md",
+                "file": "1-Software entwicklung/JavaSript/Hoisting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Software entwicklung/JavaSript/JavaScript.md",
+                "file": "1-Software entwicklung/JavaSript/Hoisting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "e3a9cf194811e42e",
@@ -230,7 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417
+    "width": 450
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,15 +246,15 @@
       "things3-today:Open Things3 Today": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "markdown-importer:Open format converter": false,
+      "copilot:Copilot Chat": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "copilot:Copilot Chat": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "9df7b188157d89f5",
+  "active": "4d50248fd98f6988",
   "lastOpenFiles": [
-    "1-Software entwicklung/JavaSript/Hoisting.md",
     "1-Software entwicklung/JavaSript/JavaScript.md",
+    "1-Software entwicklung/JavaSript/Hoisting.md",
     "1-Software entwicklung/JavaSript/Async.md",
     "1-Software entwicklung/Vue/Grundlagen/Grundlagen.md",
     "1-Software entwicklung/Angular/1.Grundlagen/1.Grundlagen.md",

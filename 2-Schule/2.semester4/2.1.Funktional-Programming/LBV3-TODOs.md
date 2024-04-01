@@ -9,17 +9,17 @@ tags:
 ---
  ---
 # <font color="#c00000"><center>#highPrio 🔥</center></font>
-  - [ ] Implement the Function for adding new Todos
-  - [ ] Implement the Function for deleting Todos
-  - [ ] Implement the Function for sorting Todos Based on Rank (higher rank is better thats way its lower on the list)
+  - [x] Implement the Function for adding new Todos
+  - [x] Implement the Function for deleting Todos
+  - [x] Implement the Function for sorting Todos Based on Rank (higher rank is better thats way its lower on the list)
 
 ---
 # <font color="#c0504d"><center>  #mediumPrio  😶‍🌫️</center></font>
-- [ ] Test
+- [x] Test
 
 ---
 # <font color="#ffffff"><center> #lowPrio </center></font> 
-- [ ] Test
+- [x] Test
 ---
 
 <center>hi this is a test

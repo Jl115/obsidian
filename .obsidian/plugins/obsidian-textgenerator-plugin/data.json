@@ -12,7 +12,7 @@
   "outputToBlockQuote": false,
   "freeCursorOnStreaming": false,
   "allowJavascriptRun": false,
-  "experiment": true,
+  "experiment": false,
   "promptsPath": "textgenerator/prompts",
   "textGenPath": "textgenerator/",
   "prefix": "\n\n",
@@ -27,7 +27,8 @@
     "includeMentions": false,
     "includeHighlights": true,
     "includeExtractions": false,
-    "includeClipboard": true
+    "includeClipboard": true,
+    "contextTemplate": "1.Grundlagen# ❗ Topic\n- \n ---\n## 📦 Resources\n- \n## 🔑 Key Points\n- \n## ❓ Prerequisites\n- \n## ❓ Q & A\n1. \n## 🎯 Learning objectives\n- [ ] \n## 📃 Summary of Notes\n- \n"
   },
   "requestTimeout": 300000,
   "options": {
@@ -49,7 +50,7 @@
     "modal-suggest": false,
     "text-extractor-tool": false,
     "stop-stream": true,
-    "reload": true
+    "reload": false
   },
   "advancedOptions": {
     "generateTitleInstructEnabled": false,
@@ -91,7 +92,7 @@
     "OpenAI Chat (Langchain)": {
       "basePath": "https://api.openai.com/v1",
       "api_key": "",
-      "model": "gpt-4-32k-0613"
+      "model": "gpt-4-0613"
     }
   },
   "LLMProviderOptionsKeysHashed": {
