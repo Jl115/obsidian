@@ -1,5 +1,5 @@
 ---
-created: 2024-04-01 at 05:26
+created: "{{date}} at {{time}}"
 aliases:
   - "🏫 - Class:"
 tags:
@@ -15,13 +15,13 @@ tags:
 Subject::
 Course Code::
 Tags::
-Started:: 2024-04-01
+Started:: 2023-10-16
 Professors::
 Speakers::
 
 ---
 # 🌍 Subject Description
--   
+[[semester3 overview]]
 ---
 
 ## 📜 - Notes and Ideas

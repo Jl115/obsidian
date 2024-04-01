@@ -49,5 +49,9 @@
   "anuppuccin-theme-settings@@anp-depth-tab-text-invert": false,
   "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout",
   "anuppuccin-theme-settings@@anp-rainbow-file-toggle": true,
-  "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-everforest-light"
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-everforest-light",
+  "anuppuccin-theme-settings@@anp-custom-checkboxes": true,
+  "anuppuccin-theme-settings@@anp-speech-bubble": true,
+  "anuppuccin-theme-settings@@anp-table-toggle": true,
+  "anuppuccin-theme-settings@@anp-table-auto": true
 }

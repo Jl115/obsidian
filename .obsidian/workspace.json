@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "999999-DailyNote/2024-04-01.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#highPrio",
+                "query": "tag:#evosys",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "999999-DailyNote/2024-04-01.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -103,7 +103,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.9813324030861008,
+                  "scale": 1.021939686697262,
                   "close": true
                 }
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "999999-DailyNote/2024-04-01.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "999999-DailyNote/2024-04-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "999999-DailyNote/2024-04-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       },
       {
         "id": "e3a9cf194811e42e",
@@ -230,11 +230,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405
+    "width": 417
   },
   "left-ribbon": {
     "hiddenItems": {
-      "handwritten-notes:Create empty handwritten note": false,
+      "switcher:Open quick switcher": false,
+      "publish:Publish changes...": false,
       "obsidian42-brat:BRAT": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
@@ -245,15 +246,35 @@
       "things3-today:Open Things3 Today": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "markdown-importer:Open format converter": false,
-      "copilot:Copilot Chat": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "e1f282af28da5faa",
+  "active": "9df7b188157d89f5",
   "lastOpenFiles": [
+    "4-🔥EvoSys🔥/1_MYEV/1_MYEV .md",
+    "4-🔥EvoSys🔥/4-🔥EvoSys🔥.md",
+    "4-🔥EvoSys🔥/2_FLOR/2_FLOR .md",
+    "4-🔥EvoSys🔥/1_MYEV/1-Tasks/1-Tasks .md",
+    "4-🔥EvoSys🔥/1-MYEV/1-MYEV.md",
+    "4-🔥EvoSys🔥/1-MYEV/MyEvoSys.md",
+    "4-🔥EvoSys🔥/2-FLOR/Floriplan.md",
+    "4-🔥EvoSys🔥/3_ALDI/3_ALDI .md",
+    "4-🔥EvoSys🔥/2-FLOR/2-FLOR.md",
+    "4-🔥EvoSys🔥/4_AHUB/4_AHUB .md",
+    "4-🔥EvoSys🔥/3-ALDI/Alarmdisplay.md",
+    "4-🔥EvoSys🔥/4-AHUB/Alarmhub.md",
+    "4-🔥EvoSys🔥/4-AHUB/4-AHUB.md",
+    "2-Schule/2-Schule .md",
+    "2-Schule/2-Schule.md",
+    "2-Schule/Schule Overview.md",
+    "2-Schule/1.semester3/semester3 overview.md",
+    "2-Schule/1.semester3/1.semester3 .md",
+    "2-Schule/3.semester5/3.semester5 .md",
     "999999-DailyNote/999999-DailyNote.md",
     "999999-DailyNote/2024-04-01.md",
+    "Excalidraw/Excalidraw .md",
     "2-Schule/2.semester4/2.1.Funktional-Programming/LBV3-TODOs.md",
     "999999-DailyNote",
     "Untitled.canvas",
@@ -265,30 +286,10 @@
     "Ink/Writing/2024.2.31 - 0.50am.writing",
     "Ink/Writing",
     "Ink/Ink.md",
-    "Ink/Ink .md",
     "Ink",
-    "Test/S/W/Untitled/Untitled .md",
     "Test/S/W/Untitled",
     "handwritten-notes/Eq",
     "handwritten-notes/Untitled",
-    "Test/S/W/Untitled.md",
-    "Test/S/W/W .md",
-    "0-Internal/0-3-PluginExamples/0-3-PluginExamples .md",
-    "undefined/Ink/Ink .md",
-    "1-Software entwicklung/Node.js/Node.js .md",
-    "1-Software entwicklung/Angular/3.Forms/3.Forms .md",
-    "Delete/Delete .md",
-    "1-Software entwicklung/1-Software entwicklung .md",
-    "Untitled/Untitled .md",
-    "1-Software entwicklung/Angular/2.Erweiterte Grundlagen/2.Erweiterte Grundlagen .md",
-    "1-Software entwicklung/Vue/Grundlagen/Grundlagen .md",
-    "undefined/undefined .md",
-    "Test/Test .md",
-    "Test/S/S .md",
-    "1-Software entwicklung/Vue/Vue .md",
-    "1-Software entwicklung/Angular/Angular .md",
-    "1-Software entwicklung/Angular/1.Grundlagen/1.Grundlagen .md",
-    "0-Internal/0-Internal .md",
     "Untitled 1.canvas",
     "Pasted image 20231130094933.png",
     "0-Internal/0-4-ClassExample/0-4-1-PowerShell/0-4-1-0-Resources/Pasted image 20221022195457.png"

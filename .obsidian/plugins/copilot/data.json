@@ -1,5 +1,5 @@
 {
-  "openAIApiKey": "",
+  "openAIApiKey": "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",
   "huggingfaceApiKey": "",
   "cohereApiKey": "",
   "anthropicApiKey": "",
@@ -28,7 +28,7 @@
   "lmStudioBaseUrl": "http://localhost:1234/v1",
   "stream": true,
   "defaultSaveFolder": "copilot-conversations",
-  "indexVaultToVectorStore": "NEVER",
+  "indexVaultToVectorStore": "ON STARTUP",
   "qaExclusionPaths": "",
   "chatNoteContextPath": "",
   "chatNoteContextTags": [],

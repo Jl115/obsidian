@@ -1,10 +1,9 @@
 ---
 created: 2024-04-01 at 05:26
 aliases:
-  - "🏫 - Class:"
+  - "🏫 - Class: Floriplan"
 tags:
-  - Course/
-  - /Index
+  - evosys
 012Version: 1
 ---
 

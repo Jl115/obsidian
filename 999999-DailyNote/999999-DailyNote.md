@@ -1,9 +1,10 @@
 ---
 created: "{{date}} at {{time}}"
-aliases: "🏫 - Class: "
+aliases:
+  - "🏫 - DaylieNote: Overview"
 tags:
-- "Course/ /Index"
-012Version: 1.0
+  - Log/DaiLyLog
+012Version: 1
 ---
 
 # 📃 - Class - `=this.file.aliases[0]`
