@@ -1,9 +1,10 @@
 ---
-created: "{{date}} at {{time}}"
-aliases: "🏫 - Class: "
+created: "{{date}} {{time}}"
+aliases:
+  - "🏫 - Class: JavaScript"
 tags:
-- "Course/ /Index"
-012Version: 1.0
+  - Softwareentwicklung/javascript
+012Version: 1
 ---
 
 # 📃 - Class - `=this.file.aliases[0]`
@@ -23,7 +24,9 @@ Speakers::
 ---
 
 ## 📜 - Notes and Ideas
-- 
+[[Hoisting|📜 - Class Note: JavaScript Hoisting]]
+[[Async|📜 - Class Note: JavaScript Async]]
+
 ## 🎯 - Assignments
 1. 
 ## ⌛ - Lectures

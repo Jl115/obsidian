@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Software entwicklung/Vue/Grundlagen/Grundlagen.md",
+                "file": "1-Software entwicklung/JavaSript/JavaScript.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1-Software entwicklung/Vue/Grundlagen/Grundlagen.md",
+                "file": "1-Software entwicklung/JavaSript/JavaScript.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Software entwicklung/Vue/Grundlagen/Grundlagen.md"
+                "file": "1-Software entwicklung/JavaSript/JavaScript.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Software entwicklung/Vue/Grundlagen/Grundlagen.md",
+                "file": "1-Software entwicklung/JavaSript/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Software entwicklung/Vue/Grundlagen/Grundlagen.md",
+                "file": "1-Software entwicklung/JavaSript/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,8 +253,11 @@
   },
   "active": "9df7b188157d89f5",
   "lastOpenFiles": [
-    "1-Software entwicklung/Angular/1.Grundlagen/1.Grundlagen.md",
+    "1-Software entwicklung/JavaSript/Hoisting.md",
+    "1-Software entwicklung/JavaSript/JavaScript.md",
+    "1-Software entwicklung/JavaSript/Async.md",
     "1-Software entwicklung/Vue/Grundlagen/Grundlagen.md",
+    "1-Software entwicklung/Angular/1.Grundlagen/1.Grundlagen.md",
     "1-Software entwicklung/Angular/2.Erweiterte Grundlagen/2.Erweiterte Grundlagen.md",
     "1-Software entwicklung/Angular/2.Erweiterte Grundlagen/2.Erweiterte Grundlagen .md",
     "1-Software entwicklung/Angular/3.Forms/3.Forms.md",
@@ -266,7 +269,6 @@
     "1-Software entwicklung/Vue/Vue.md",
     "1-Software entwicklung/Vue/Vue .md",
     "1-Software entwicklung/1-Software entwicklung.md",
-    "1-Software entwicklung/JavaSript/JavaScript.md",
     "1-Software entwicklung/1-Software entwicklung .md",
     "1-Software entwicklung/JavaSript",
     "3-Projektideen/Hackathon 2023.md",
@@ -278,8 +280,6 @@
     "2-Schule/2.semester4/2.1.Funktional-Programming/2.1.Funktional-Programming.md",
     "2-Schule/2.semester4/2.1.Funktional-Programming/2.1.Funktional-Programming .md",
     "4-🔥EvoSys🔥/1_MYEV/1_MYEV .md",
-    "4-🔥EvoSys🔥/4-🔥EvoSys🔥.md",
-    "4-🔥EvoSys🔥/2_FLOR/2_FLOR .md",
     "999999-DailyNote",
     "Untitled.canvas",
     "Ink/Writing/2024.2.31 - 14.13am.writing",
