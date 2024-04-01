@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Software entwicklung/Vue/Grundlagen/1.7.Zwei wege Datenbindung.md",
+                "file": "999999-DailyNote/2024-04-01.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,7 +120,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "1-Software entwicklung/Vue/Grundlagen/1.7.Zwei wege Datenbindung.md"
+            "file": "999999-DailyNote/2024-04-01.md"
           }
         }
       },
@@ -138,7 +138,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1-Software entwicklung/Vue/Grundlagen/1.7.Zwei wege Datenbindung.md",
+            "file": "999999-DailyNote/2024-04-01.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1-Software entwicklung/Vue/Grundlagen/1.7.Zwei wege Datenbindung.md",
+            "file": "999999-DailyNote/2024-04-01.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,9 +199,10 @@
   },
   "active": "dd6377bb7e7bf217",
   "lastOpenFiles": [
+    "Ink/Writing/2024.2.31 - 0.50am.writing",
+    "999999-DailyNote/2024-04-01.md",
     "Home.md",
     "Spaces/Spaces .md",
-    "999999-DailyNote/2024-04-01.md",
     "999999-DailyNote/999999-DailyNote.md",
     "Excalidraw/Excalidraw .md",
     "4-🔥EvoSys🔥/evosys.md",
@@ -229,7 +230,6 @@
     "1-Software entwicklung/1-Software entwicklung .md",
     "0-Internal/0-3-PluginExamples/0-3-PluginExamples .md",
     "0-Internal/0-5-ContactExample/0-5-ContactExample .md",
-    "0-Internal/0-Internal .md",
     "Test/S/W",
     "Test/S",
     "Delete",
