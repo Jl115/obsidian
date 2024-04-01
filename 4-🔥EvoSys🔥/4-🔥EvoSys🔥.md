@@ -19,7 +19,7 @@ Professors::
 Speakers::
 
 ---
-# 🌍Projects
+# 🌍Files
 > [!info] 
 >```dataview
 >TABLE WITHOUT ID
@@ -30,13 +30,7 @@ Speakers::
 ---
 
 ## 📜 - Notes and Ideas
--  
-```handwritten-ink
-{
-	"versionAtEmbed": "0.1.0",
-	"filepath": "undefined/Ink/Writing/2024.2.31 - 14.13am.writing"
-}
-```
+
 
 ## 🎯 - Assignments
 1. 
@@ -49,3 +43,8 @@ Speakers::
 [[Floriplan]]
 [[Alarmdisplay]]
 [[Alarmhub]]
+[[Floriplan Video]]
+[[4-🔥EvoSys🔥/1_MYEV/1-Tasks/1-Tasks]]
+[[4-🔥EvoSys🔥/2_FLOR/1-Tasks/1-Tasks]]
+[[4-🔥EvoSys🔥/3_ALDI/1-Tasks/1-Tasks]]
+[[4-🔥EvoSys🔥/4_AHUB/1-Tasks/1-Tasks ]]

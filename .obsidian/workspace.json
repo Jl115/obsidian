@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Software entwicklung/JavaSript/Hoisting.md",
+                "file": "1-Software entwicklung/Angular/Angular.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -80,14 +80,14 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1-Software entwicklung/JavaSript/Hoisting.md",
+                "file": "1-Software entwicklung/Angular/Angular.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
                   "localJumps": 5,
-                  "localBacklinks": false,
+                  "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": true,
                   "showAttachments": true,
                   "hideUnresolved": true,
@@ -113,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509
+    "width": 707.2
   },
   "right": {
     "id": "01723b591f3e7b7b",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Software entwicklung/JavaSript/Hoisting.md"
+                "file": "1-Software entwicklung/Angular/Angular.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Software entwicklung/JavaSript/Hoisting.md",
+                "file": "1-Software entwicklung/Angular/Angular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Software entwicklung/JavaSript/Hoisting.md",
+                "file": "1-Software entwicklung/Angular/Angular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "e3a9cf194811e42e",
@@ -230,7 +230,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 450
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,9 +252,16 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "4d50248fd98f6988",
+  "active": "9df7b188157d89f5",
   "lastOpenFiles": [
     "1-Software entwicklung/JavaSript/JavaScript.md",
+    "4-🔥EvoSys🔥/4-🔥EvoSys🔥.md",
+    "4-🔥EvoSys🔥/2_FLOR/1-Tasks/1-Tasks.md",
+    "4-🔥EvoSys🔥/3_ALDI/1-Tasks/1-Tasks .md",
+    "4-🔥EvoSys🔥/3_ALDI/1-Tasks/ALDI-75 Tls repetition.md",
+    "4-🔥EvoSys🔥/2_FLOR/1-Tasks/1-Tasks .md",
+    "4-🔥EvoSys🔥/3_ALDI/3_ALDI .md",
+    "4-🔥EvoSys🔥/Floriplan Video.md",
     "1-Software entwicklung/JavaSript/Hoisting.md",
     "1-Software entwicklung/JavaSript/Async.md",
     "1-Software entwicklung/Vue/Grundlagen/Grundlagen.md",
@@ -273,13 +281,6 @@
     "1-Software entwicklung/JavaSript",
     "3-Projektideen/Hackathon 2023.md",
     "0-Internal/0-1-Templates/0-1-3-ProjectIndex.md",
-    "0-Internal/0-1-Templates/Overview Angular 1.md",
-    "3-Projektideen/3-Projektideen.md",
-    "3-Projektideen/3-Projektideen .md",
-    "999999-DailyNote/2024-04-01.md",
-    "2-Schule/2.semester4/2.1.Funktional-Programming/2.1.Funktional-Programming.md",
-    "2-Schule/2.semester4/2.1.Funktional-Programming/2.1.Funktional-Programming .md",
-    "4-🔥EvoSys🔥/1_MYEV/1_MYEV .md",
     "999999-DailyNote",
     "Untitled.canvas",
     "Ink/Writing/2024.2.31 - 14.13am.writing",

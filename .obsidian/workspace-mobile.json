@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "999999-DailyNote/2024-04-01.md",
+                "file": "1-Software entwicklung/Vue/Grundlagen/1.7.Zwei wege Datenbindung.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,7 +120,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "999999-DailyNote/2024-04-01.md"
+            "file": "1-Software entwicklung/Vue/Grundlagen/1.7.Zwei wege Datenbindung.md"
           }
         }
       },
@@ -138,7 +138,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "999999-DailyNote/2024-04-01.md",
+            "file": "1-Software entwicklung/Vue/Grundlagen/1.7.Zwei wege Datenbindung.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "999999-DailyNote/2024-04-01.md",
+            "file": "1-Software entwicklung/Vue/Grundlagen/1.7.Zwei wege Datenbindung.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -194,19 +194,19 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "publish:Publish changes...": false,
-      "switcher:Open quick switcher": false,
-      "templater-obsidian:Templater": false
+      "switcher:Open quick switcher": false
     }
   },
   "active": "dd6377bb7e7bf217",
   "lastOpenFiles": [
+    "Home.md",
+    "Spaces/Spaces .md",
+    "999999-DailyNote/2024-04-01.md",
     "999999-DailyNote/999999-DailyNote.md",
     "Excalidraw/Excalidraw .md",
     "4-🔥EvoSys🔥/evosys.md",
     "3-Projektideen/3-Projektideen .md",
     "4-🔥EvoSys🔥/1-MYEV/1-MYEV .md",
-    "999999-DailyNote/2024-04-01.md",
-    "Home.md",
     "999999-DailyNote",
     "Untitled.canvas",
     "Projectide.md",
@@ -230,7 +230,6 @@
     "0-Internal/0-3-PluginExamples/0-3-PluginExamples .md",
     "0-Internal/0-5-ContactExample/0-5-ContactExample .md",
     "0-Internal/0-Internal .md",
-    "handwritten-notes/handwritten-notes .md",
     "Test/S/W",
     "Test/S",
     "Delete",
