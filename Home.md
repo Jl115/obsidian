@@ -11,17 +11,6 @@ cssclasses: []
 ### Ideas:
 
 
-
-
-
-
-
-
-
-
-
-
-
 ---
 # 🔥 - EvoSys
 > [!info] 

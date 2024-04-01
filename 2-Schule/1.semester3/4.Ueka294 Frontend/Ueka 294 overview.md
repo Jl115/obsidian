@@ -4,6 +4,7 @@ aliases:
   - "🏫 - Class: UEKA 294 Angular Frontend"
 tags:
   - UEK294
+  - Course/Semester3
 012Version: 1
 ---
 

@@ -1,5 +1,5 @@
 {
-  "version": "0.7.10-beta",
+  "version": "0.7.11",
   "endpoint": "https://api.openai.com",
   "models": {},
   "api_key": "",
@@ -27,8 +27,7 @@
     "includeMentions": false,
     "includeHighlights": true,
     "includeExtractions": false,
-    "includeClipboard": true,
-    "contextTemplate": "1.Grundlagen# ❗ Topic\n- \n ---\n## 📦 Resources\n- \n## 🔑 Key Points\n- \n## ❓ Prerequisites\n- \n## ❓ Q & A\n1. \n## 🎯 Learning objectives\n- [ ] \n## 📃 Summary of Notes\n- \n"
+    "includeClipboard": true
   },
   "requestTimeout": 300000,
   "options": {
@@ -49,26 +48,19 @@
     "calculate-tokens-for-template": true,
     "modal-suggest": false,
     "text-extractor-tool": false,
-    "stop-stream": true,
-    "reload": false
+    "stop-stream": true
   },
   "advancedOptions": {
     "generateTitleInstructEnabled": false,
     "generateTitleInstruct": "Generate a title for the current document (do not use * \" \\ / < > : | ? .):\n{{substring content 0 255}}"
   },
   "autoSuggestOptions": {
-    "customInstructEnabled": true,
-    "customInstruct": "Continue the follwing text:\nTitle: {{title}}\n{{query}}",
     "isEnabled": false,
-    "allowInNewLine": false,
     "delay": 300,
     "numberOfSuggestions": 5,
     "triggerPhrase": "  ",
     "stop": ".",
-    "showStatus": true,
-    "customProvider": false,
-    "inlineSuggestions": false,
-    "overrideTrigger": " "
+    "showStatus": true
   },
   "slashSuggestOptions": {
     "isEnabled": false,
@@ -84,21 +76,8 @@
   },
   "displayErrorInEditor": false,
   "LLMProviderProfiles": {},
-  "LLMProviderOptions": {
-    "whisper": {
-      "base_path": "https://api.openai.com/v1",
-      "model": "whisper-1"
-    },
-    "OpenAI Chat (Langchain)": {
-      "basePath": "https://api.openai.com/v1",
-      "api_key": "",
-      "model": "gpt-4-0613"
-    }
-  },
-  "LLMProviderOptionsKeysHashed": {
-    "OpenAI Chat (Langchain).api_key": "__@#key_prefix#@__sk-roNO7o929UtXb9f1vorjT3BlbkFJMRIQedbvQfV5ROIqnl73"
-  },
+  "LLMProviderOptions": {},
+  "LLMProviderOptionsKeysHashed": {},
   "engine": "gpt-4",
-  "prompt": "",
-  "api_key_encrypted": "__@#key_prefix#@__sk-roNO7o929UtXb9f1vorjT3BlbkFJMRIQedbvQfV5ROIqnl73"
+  "prompt": ""
 }

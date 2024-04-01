@@ -8,23 +8,37 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Softwareentwicklung/Angular tag:#Softwareentwicklung/Angular/Grundlagen tag:#Angular tag:",
+      "query": "tag:#evosys tag:#evosys/tasks  ",
       "color": {
         "a": 1,
-        "rgb": 16755200
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#Softwareentwicklung  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431439
+      }
+    },
+    {
+      "query": "tag:#Course/Semester3  ",
+      "color": {
+        "a": 1,
+        "rgb": 5415904
       }
     }
   ],
-  "collapse-display": true,
-  "showArrow": false,
+  "collapse-display": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.8693115234375,
   "collapse-forces": true,
   "centerStrength": 0.460978190104167,
   "repelStrength": 14.2195638020833,
   "linkStrength": 1,
   "linkDistance": 112,
-  "scale": 2.395278406282466,
+  "scale": 0.08883995700557888,
   "close": true
 }

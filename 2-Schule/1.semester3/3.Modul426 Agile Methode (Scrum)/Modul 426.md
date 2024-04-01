@@ -3,8 +3,7 @@ created: 2023-11-04 at 13:04
 aliases:
   - "🏫 - Class:"
 tags:
-  - Course/
-  - /Index
+  - Course/Semester3
 012Version: 1
 ---
 
