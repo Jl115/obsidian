@@ -1,11 +1,10 @@
 ---
-created: 2024-04-01 at 05:26
+created: 2024-04-01 at 22:31
 aliases:
-  - "🏫 - Class:"
+  - "📜 - Class Note:"
 tags:
-  - Course/
-  - /Index
-012Version: 1
+  - evosys
+011Version: 1
 ---
 
 # 📃 - Class - `=this.file.aliases[0]`
@@ -21,7 +20,7 @@ Speakers::
 
 ---
 # 🌍 Subject Description
--   
+-   [[ALDI-75 Tls repetition]]
 ---
 
 ## 📜 - Notes and Ideas

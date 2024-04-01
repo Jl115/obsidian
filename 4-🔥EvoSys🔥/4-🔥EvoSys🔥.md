@@ -44,7 +44,11 @@ Speakers::
 [[Alarmdisplay]]
 [[Alarmhub]]
 [[Floriplan Video]]
-[[4-🔥EvoSys🔥/1_MYEV/1-Tasks/1-Tasks]]
-[[4-🔥EvoSys🔥/2_FLOR/1-Tasks/1-Tasks]]
-[[4-🔥EvoSys🔥/3_ALDI/1-Tasks/1-Tasks]]
-[[4-🔥EvoSys🔥/4_AHUB/1-Tasks/1-Tasks ]]
+
+---
+[[Myev-Tasks]]
+[[Flor-Tasks|Flor-Tasks]]
+[[Aldi-Tasks ]]
+[[Ahub-Tasks ]]
+
+------------------------

@@ -1,12 +1,12 @@
 ---
-created: 2024-04-01 at 05:14
+created: 2024-04-01 at 05:26
 aliases:
   - "🏫 - Class:"
 tags:
-  - Course/
-  - /Index
+  - evosys/tasks
 012Version: 1
 ---
+
 
 # 📃 - Class - `=this.file.aliases[0]`
 

@@ -3,8 +3,7 @@ created: 2024-04-01 at 05:14
 aliases:
   - "🏫 - Class:"
 tags:
-  - Course/
-  - /Index
+  - evosys/tasks
 012Version: 1
 ---
 

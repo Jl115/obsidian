@@ -1,10 +1,9 @@
 ---
-created: 2024-04-01 at 05:26
+created: 2024-04-01 at 05:14
 aliases:
   - "🏫 - Class:"
 tags:
-  - Course/
-  - /Index
+  - evosys/tasks
 012Version: 1
 ---
 
@@ -21,7 +20,7 @@ Speakers::
 
 ---
 # 🌍 Subject Description
--   [[ALDI-75 Tls repetition]]
+-   
 ---
 
 ## 📜 - Notes and Ideas
