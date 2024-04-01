@@ -24,6 +24,9 @@ tags:
 - State what is in scope and also what is out of scope
 ## 3️⃣ - Business Case
 - Outline the justification for starting the project, including: financials and time scales if applicable.
+---
+# 📚- Tech-stack
+
 
 --- 
 # ⚠ - Constraints

@@ -1,10 +1,9 @@
 ---
-created: 2024-04-01 at 05:14
+created: 2023-12-01 at 10:27
 aliases:
-  - "🏫 - Class:"
+  - "🏫 - Class: Node"
 tags:
-  - Course/
-  - /Index
+  - Softwareentwicklung/Node
 012Version: 1
 ---
 
@@ -15,7 +14,7 @@ tags:
 Subject::
 Course Code::
 Tags::
-Started:: 2024-04-01
+Started:: 2023-12-01
 Professors::
 Speakers::
 
@@ -25,7 +24,10 @@ Speakers::
 ---
 
 ## 📜 - Notes and Ideas
-- 
+- [[nodejs mit sequlize|📜 - Class Note: Node mit sequlize]]
+- [[]]
+- [[]]
+- [[]]
 ## 🎯 - Assignments
 1. 
 ## ⌛ - Lectures

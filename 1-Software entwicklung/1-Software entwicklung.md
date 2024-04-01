@@ -1,21 +1,25 @@
 ---
-created: 2024-04-01 at 05:14
+created: 2023-10-18 at 20:52
 aliases:
-  - "🏫 - Class:"
+  - Software Overview
 tags:
-  - Course/
-  - /Index
+  - Softwareentwicklung/Overview
 012Version: 1
 ---
 
 # 📃 - Class - `=this.file.aliases[0]`
+
+[[Angular|🏫 - Class: Overview Angular]]
+[[Vue|🏫 - Class: Vue]]
+[[Node.js|🏫 - Class: Node]]
+
 
 ---
 # ❓ - Information
 Subject::
 Course Code::
 Tags::
-Started:: 2024-04-01
+Started:: 2023-10-18
 Professors::
 Speakers::
 

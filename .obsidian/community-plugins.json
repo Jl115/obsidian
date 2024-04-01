@@ -17,5 +17,6 @@
   "obsidian-checklist-plugin",
   "slash-commander",
   "folder-notes",
-  "editing-toolbar"
+  "editing-toolbar",
+  "settings-search"
 ]

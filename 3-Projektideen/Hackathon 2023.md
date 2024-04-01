@@ -37,6 +37,12 @@ Datenbank schema erstellen für die verschiedenen datenbanken
 
 
 ---
+# 📚- Tech-stack
+Mean stack -> Mongodb, express/node [[Node.js|🏫 - Class: Node]], Angular [[Angular]]
+
+
+
+---
 
 ## 1️⃣ - Time
 - # 30h

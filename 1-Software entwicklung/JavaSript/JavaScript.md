@@ -1,20 +1,19 @@
 ---
-created: 2023-10-15 at 12:03
-aliases:
-  - "🏫 - Class: Overview Angular"
+created: "{{date}} at {{time}}"
+aliases: "🏫 - Class: "
 tags:
-  - Softwareentwicklung/Angular/Grundlagen/Erweitert
-012Version: 1
+- "Course/ /Index"
+012Version: 1.0
 ---
 
 # 📃 - Class - `=this.file.aliases[0]`
 
 ---
 # ❓ - Information
-Subject:: #Angular 
+Subject::
 Course Code::
-Tags:: #Angular 
-Started:: 2023-10-15
+Tags::
+Started:: {{date}}
 Professors::
 Speakers::
 
@@ -24,9 +23,7 @@ Speakers::
 ---
 
 ## 📜 - Notes and Ideas
-- [[2.1.Export Modules]]
-- [[2.2.Service]]
-- [[2.3.Dependency Injection]]
+- 
 ## 🎯 - Assignments
 1. 
 ## ⌛ - Lectures

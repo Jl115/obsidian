@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "999999-DailyNote/2024-04-01.md",
+                "file": "1-Software entwicklung/Vue/Grundlagen/Grundlagen.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -80,30 +80,30 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "999999-DailyNote/2024-04-01.md",
+                "file": "1-Software entwicklung/Vue/Grundlagen/Grundlagen.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
                   "localJumps": 5,
-                  "localBacklinks": true,
+                  "localBacklinks": false,
                   "localForelinks": true,
-                  "localInterlinks": true,
+                  "localInterlinks": false,
                   "showTags": true,
                   "showAttachments": true,
-                  "hideUnresolved": false,
+                  "hideUnresolved": true,
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": false,
                   "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
+                  "textFadeMultiplier": -0.6,
+                  "nodeSizeMultiplier": 1.5008544921875,
+                  "lineSizeMultiplier": 4.61020914713542,
                   "collapse-forces": false,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
+                  "centerStrength": 0.640787760416667,
+                  "repelStrength": 19.8388671875,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.021939686697262,
+                  "scale": 0.23186026322502984,
                   "close": true
                 }
               }
@@ -113,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299
+    "width": 509
   },
   "right": {
     "id": "01723b591f3e7b7b",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "999999-DailyNote/2024-04-01.md"
+                "file": "1-Software entwicklung/Vue/Grundlagen/Grundlagen.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "999999-DailyNote/2024-04-01.md",
+                "file": "1-Software entwicklung/Vue/Grundlagen/Grundlagen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "999999-DailyNote/2024-04-01.md",
+                "file": "1-Software entwicklung/Vue/Grundlagen/Grundlagen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,43 +253,43 @@
   },
   "active": "9df7b188157d89f5",
   "lastOpenFiles": [
+    "1-Software entwicklung/Angular/1.Grundlagen/1.Grundlagen.md",
+    "1-Software entwicklung/Vue/Grundlagen/Grundlagen.md",
+    "1-Software entwicklung/Angular/2.Erweiterte Grundlagen/2.Erweiterte Grundlagen.md",
+    "1-Software entwicklung/Angular/2.Erweiterte Grundlagen/2.Erweiterte Grundlagen .md",
+    "1-Software entwicklung/Angular/3.Forms/3.Forms.md",
+    "1-Software entwicklung/Angular/Angular.md",
+    "1-Software entwicklung/Angular/3.Forms/3.Forms .md",
+    "1-Software entwicklung/Angular/Angular .md",
+    "1-Software entwicklung/Node.js/Node.js.md",
+    "1-Software entwicklung/Node.js/Node.js.md",
+    "1-Software entwicklung/Vue/Vue.md",
+    "1-Software entwicklung/Vue/Vue .md",
+    "1-Software entwicklung/1-Software entwicklung.md",
+    "1-Software entwicklung/JavaSript/JavaScript.md",
+    "1-Software entwicklung/1-Software entwicklung .md",
+    "1-Software entwicklung/JavaSript",
+    "3-Projektideen/Hackathon 2023.md",
+    "0-Internal/0-1-Templates/0-1-3-ProjectIndex.md",
+    "0-Internal/0-1-Templates/Overview Angular 1.md",
+    "3-Projektideen/3-Projektideen.md",
+    "3-Projektideen/3-Projektideen .md",
+    "999999-DailyNote/2024-04-01.md",
+    "2-Schule/2.semester4/2.1.Funktional-Programming/2.1.Funktional-Programming.md",
+    "2-Schule/2.semester4/2.1.Funktional-Programming/2.1.Funktional-Programming .md",
     "4-🔥EvoSys🔥/1_MYEV/1_MYEV .md",
     "4-🔥EvoSys🔥/4-🔥EvoSys🔥.md",
     "4-🔥EvoSys🔥/2_FLOR/2_FLOR .md",
-    "4-🔥EvoSys🔥/1_MYEV/1-Tasks/1-Tasks .md",
-    "4-🔥EvoSys🔥/1-MYEV/1-MYEV.md",
-    "4-🔥EvoSys🔥/1-MYEV/MyEvoSys.md",
-    "4-🔥EvoSys🔥/2-FLOR/Floriplan.md",
-    "4-🔥EvoSys🔥/3_ALDI/3_ALDI .md",
-    "4-🔥EvoSys🔥/2-FLOR/2-FLOR.md",
-    "4-🔥EvoSys🔥/4_AHUB/4_AHUB .md",
-    "4-🔥EvoSys🔥/3-ALDI/Alarmdisplay.md",
-    "4-🔥EvoSys🔥/4-AHUB/Alarmhub.md",
-    "4-🔥EvoSys🔥/4-AHUB/4-AHUB.md",
-    "2-Schule/2-Schule .md",
-    "2-Schule/2-Schule.md",
-    "2-Schule/Schule Overview.md",
-    "2-Schule/1.semester3/semester3 overview.md",
-    "2-Schule/1.semester3/1.semester3 .md",
-    "2-Schule/3.semester5/3.semester5 .md",
-    "999999-DailyNote/999999-DailyNote.md",
-    "999999-DailyNote/2024-04-01.md",
-    "Excalidraw/Excalidraw .md",
-    "2-Schule/2.semester4/2.1.Funktional-Programming/LBV3-TODOs.md",
     "999999-DailyNote",
     "Untitled.canvas",
-    "Ink/Writing/Writing.md",
-    "Ink/Writing/Writing .md",
     "Ink/Writing/2024.2.31 - 14.13am.writing",
     "Ink/Writing/2024.2.31 - 0.51am.writing",
     "Ink/Writing/2024.2.31 - 0.51am (2).writing",
     "Ink/Writing/2024.2.31 - 0.50am.writing",
     "Ink/Writing",
-    "Ink/Ink.md",
     "Ink",
     "Test/S/W/Untitled",
     "handwritten-notes/Eq",
-    "handwritten-notes/Untitled",
     "Untitled 1.canvas",
     "Pasted image 20231130094933.png",
     "0-Internal/0-4-ClassExample/0-4-1-PowerShell/0-4-1-0-Resources/Pasted image 20221022195457.png"

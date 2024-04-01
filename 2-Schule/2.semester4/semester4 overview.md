@@ -28,7 +28,7 @@ Speakers::
 ## 🎯 - Assignments
 1. 
 ## ⌛ - Module
-- [[323.FunktionalProgramming]]
+- [[2.1.Funktional-Programming]]
 - [[]]
 - [[]]
 ## 📦 - Resources

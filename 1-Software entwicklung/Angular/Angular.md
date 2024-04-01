@@ -52,9 +52,9 @@ Speakers::
 ---
 
 ## 📜 - Notes and Ideas
-- [[1.0.Overview Grundlagen]]
-- [[2.0.Erweiterte Grundlagen Overview]]
-- [[3.0.Forms Overview|🏫 - Class: Overview Angular Forms]]
+- [[1.Grundlagen]]
+- [[2.Erweiterte Grundlagen]]
+- [[3.Forms|🏫 - Class: Overview Angular Forms]]
 ## 🎯 - Assignments
 1. 
 ## ⌛ - Lectures
