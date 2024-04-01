@@ -12,7 +12,7 @@
   "outputToBlockQuote": false,
   "freeCursorOnStreaming": false,
   "allowJavascriptRun": false,
-  "experiment": false,
+  "experiment": true,
   "promptsPath": "textgenerator/prompts",
   "textGenPath": "textgenerator/",
   "prefix": "\n\n",
@@ -48,7 +48,8 @@
     "calculate-tokens-for-template": true,
     "modal-suggest": false,
     "text-extractor-tool": false,
-    "stop-stream": true
+    "stop-stream": true,
+    "reload": true
   },
   "advancedOptions": {
     "generateTitleInstructEnabled": false,

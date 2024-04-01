@@ -201,9 +201,17 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "e1f282af28da5faa",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "e3a9cf194811e42e",
@@ -222,8 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 405
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,15 +242,15 @@
       "command-palette:Open command palette": false,
       "canvas:Create new canvas": false,
       "homepage:Open homepage": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "things3-today:Open Things3 Today": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "markdown-importer:Open format converter": false,
-      "copilot:Copilot Chat": false
+      "copilot:Copilot Chat": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "9df7b188157d89f5",
+  "active": "e1f282af28da5faa",
   "lastOpenFiles": [
     "999999-DailyNote/999999-DailyNote.md",
     "999999-DailyNote/2024-04-01.md",
