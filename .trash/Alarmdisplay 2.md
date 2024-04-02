@@ -20,7 +20,7 @@ Speakers::
 
 ---
 # 🌍 Subject Description
--   [[ALDI-75 Tls repetition]]
+
 ---
 
 ## 📜 - Notes and Ideas
