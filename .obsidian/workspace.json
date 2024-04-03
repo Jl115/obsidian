@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-🔥EvoSys🔥/3_ALDI/Aldi-Tasks/ALDI-75 Tls repetition.md",
+                "file": "999999-DailyNote/2024-04-02.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4-🔥EvoSys🔥/3_ALDI/Aldi-Tasks/ALDI-75 Tls repetition.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -148,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "01723b591f3e7b7b",
@@ -176,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-🔥EvoSys🔥/3_ALDI/Aldi-Tasks/ALDI-75 Tls repetition.md"
+                "file": "Home.md"
               }
             }
           },
@@ -186,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-🔥EvoSys🔥/3_ALDI/Aldi-Tasks/ALDI-75 Tls repetition.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-🔥EvoSys🔥/3_ALDI/Aldi-Tasks/ALDI-75 Tls repetition.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,7 +274,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 356
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -293,19 +294,20 @@
       "things3-today:Open Things3 Today": false
     }
   },
-  "active": "4f4b5dac27ee2e25",
+  "active": "8706c2c66d886b56",
   "lastOpenFiles": [
+    "999999-DailyNote/2024-04-02.md",
+    "4-🔥EvoSys🔥/3_ALDI/Aldi-Tasks/Aldi-Tasks .md",
+    "4-🔥EvoSys🔥/3_ALDI/Aldi-Tasks/ALDI-75 Tls repetition.md",
+    "4-🔥EvoSys🔥/1_MYEV/Myev-Tasks/Myev-Tasks.md",
     "undefined/Ink/Writing/2024.3.2 - 6.25am.writing",
     "undefined/Ink/Writing/2024.3.2 - 6.25am.png",
-    "4-🔥EvoSys🔥/3_ALDI/Aldi-Tasks/Aldi-Tasks .md",
     "Ahub-Tasks.md",
     "4-🔥EvoSys🔥/3_ALDI/3_ALDI .md",
     "Aldi-Tasks.md",
     "Alarmdisplay.md",
-    "4-🔥EvoSys🔥/3_ALDI/Aldi-Tasks/ALDI-75 Tls repetition.md",
     "4-🔥EvoSys🔥/4_AHUB/4_AHUB .md",
     "4-🔥EvoSys🔥/4_AHUB/Ahub-Tasks/Ahub-Tasks .md",
-    "999999-DailyNote/2024-04-02.md",
     "undefined/Ink/Writing/Writing .md",
     "undefined/Ink/Writing",
     "undefined/Ink/Ink .md",
@@ -321,7 +323,6 @@
     "1-Software entwicklung/Angular/3.Forms/3.Forms.md",
     "1-Software entwicklung/Angular/2.Erweiterte Grundlagen/2.Erweiterte Grundlagen.md",
     "1-Software entwicklung/Angular/1.Grundlagen/1.Grundlagen.md",
-    "4-🔥EvoSys🔥/1_MYEV/Myev-Tasks/Myev-Tasks.md",
     "4-🔥EvoSys🔥/2_FLOR/Flor-Tasks/Flor-Tasks.md",
     "4-🔥EvoSys🔥/Floriplan Video.md",
     "4-🔥EvoSys🔥/1_MYEV/1-Tasks/1-Tasks .md",
