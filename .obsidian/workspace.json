@@ -39,10 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "999999-DailyNote/2024-04-03.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "a9bd51eef4b6e737",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2.4.24.pdf"
               }
             }
           }
@@ -115,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "999999-DailyNote/2024-04-03.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "999999-DailyNote/2024-04-03.md"
               }
             }
           },
@@ -187,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "999999-DailyNote/2024-04-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "999999-DailyNote/2024-04-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -296,6 +306,10 @@
   },
   "active": "8706c2c66d886b56",
   "lastOpenFiles": [
+    "2.4.24 1.pdf",
+    "999999-DailyNote/2024-04-03.md",
+    "2.4.24.pdf",
+    "Home.md",
     "999999-DailyNote/2024-04-02.md",
     "4-🔥EvoSys🔥/3_ALDI/Aldi-Tasks/Aldi-Tasks .md",
     "4-🔥EvoSys🔥/3_ALDI/Aldi-Tasks/ALDI-75 Tls repetition.md",
@@ -319,20 +333,16 @@
     "4-🔥EvoSys🔥/2_FLOR/2_FLOR .md",
     "4-🔥EvoSys🔥/1_MYEV/1_MYEV .md",
     "999999-DailyNote/2024-04-01.md",
-    "Home.md",
     "1-Software entwicklung/Angular/3.Forms/3.Forms.md",
     "1-Software entwicklung/Angular/2.Erweiterte Grundlagen/2.Erweiterte Grundlagen.md",
     "1-Software entwicklung/Angular/1.Grundlagen/1.Grundlagen.md",
     "4-🔥EvoSys🔥/2_FLOR/Flor-Tasks/Flor-Tasks.md",
     "4-🔥EvoSys🔥/Floriplan Video.md",
-    "4-🔥EvoSys🔥/1_MYEV/1-Tasks/1-Tasks .md",
     "1-Software entwicklung/JavaSript",
     "999999-DailyNote",
     "Untitled.canvas",
     "Ink/Writing/2024.2.31 - 14.13am.writing",
     "Ink/Writing/2024.2.31 - 0.51am.writing",
-    "Ink/Writing/2024.2.31 - 0.51am (2).writing",
-    "Ink/Writing/2024.2.31 - 0.50am.writing",
     "Untitled 1.canvas",
     "Pasted image 20231130094933.png",
     "0-Internal/0-4-ClassExample/0-4-1-PowerShell/0-4-1-0-Resources/Pasted image 20221022195457.png"
