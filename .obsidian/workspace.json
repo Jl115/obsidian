@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-🔥EvoSys🔥/3_ALDI/Aldi-Tasks/ALDI-75 Tls repetition.md",
+                "file": "4-🔥EvoSys🔥/Floriplan Video.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4-🔥EvoSys🔥/3_ALDI/Aldi-Tasks/ALDI-75 Tls repetition.md",
+                "file": "4-🔥EvoSys🔥/Floriplan Video.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-🔥EvoSys🔥/3_ALDI/Aldi-Tasks/ALDI-75 Tls repetition.md"
+                "file": "4-🔥EvoSys🔥/Floriplan Video.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-🔥EvoSys🔥/3_ALDI/Aldi-Tasks/ALDI-75 Tls repetition.md",
+                "file": "4-🔥EvoSys🔥/Floriplan Video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-🔥EvoSys🔥/3_ALDI/Aldi-Tasks/ALDI-75 Tls repetition.md",
+                "file": "4-🔥EvoSys🔥/Floriplan Video.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,7 +284,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -306,11 +307,12 @@
   },
   "active": "4f4b5dac27ee2e25",
   "lastOpenFiles": [
+    "999999-DailyNote/2024-04-04.md",
     "999999-DailyNote/2024-04-02.md",
+    "4-🔥EvoSys🔥/3_ALDI/Aldi-Tasks/ALDI-75 Tls repetition.md",
     "999999-DailyNote/2024-04-03.md",
     "2.4.24.pdf",
     "4-🔥EvoSys🔥/1_MYEV/Myev-Tasks/Myev-Tasks.md",
-    "4-🔥EvoSys🔥/3_ALDI/Aldi-Tasks/ALDI-75 Tls repetition.md",
     "2.4.24 1.pdf",
     "Home.md",
     "4-🔥EvoSys🔥/3_ALDI/Aldi-Tasks/Aldi-Tasks .md",
