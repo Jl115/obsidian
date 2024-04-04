@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "999999-DailyNote/2024-04-03.md",
+                "file": "999999-DailyNote/2024-04-04.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#/Index",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4-🔥EvoSys🔥/Floriplan Video.md",
+                "file": "999999-DailyNote/2024-04-04.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -158,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "01723b591f3e7b7b",
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-🔥EvoSys🔥/Floriplan Video.md"
+                "file": "999999-DailyNote/2024-04-04.md"
               }
             }
           },
@@ -197,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-🔥EvoSys🔥/Floriplan Video.md",
+                "file": "999999-DailyNote/2024-04-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-🔥EvoSys🔥/Floriplan Video.md",
+                "file": "999999-DailyNote/2024-04-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,16 +304,17 @@
       "things3-today:Open Things3 Today": false
     }
   },
-  "active": "4f4b5dac27ee2e25",
+  "active": "8706c2c66d886b56",
   "lastOpenFiles": [
+    "Home.md",
+    "999999-DailyNote/2024-04-03.md",
+    "2.4.24.pdf",
+    "4-🔥EvoSys🔥/Floriplan Video.md",
     "999999-DailyNote/2024-04-04.md",
     "999999-DailyNote/2024-04-02.md",
     "4-🔥EvoSys🔥/3_ALDI/Aldi-Tasks/ALDI-75 Tls repetition.md",
-    "999999-DailyNote/2024-04-03.md",
-    "2.4.24.pdf",
     "4-🔥EvoSys🔥/1_MYEV/Myev-Tasks/Myev-Tasks.md",
     "2.4.24 1.pdf",
-    "Home.md",
     "4-🔥EvoSys🔥/3_ALDI/Aldi-Tasks/Aldi-Tasks .md",
     "undefined/Ink/Writing/2024.3.2 - 6.25am.writing",
     "undefined/Ink/Writing/2024.3.2 - 6.25am.png",
@@ -338,8 +338,6 @@
     "1-Software entwicklung/Angular/3.Forms/3.Forms.md",
     "1-Software entwicklung/Angular/2.Erweiterte Grundlagen/2.Erweiterte Grundlagen.md",
     "1-Software entwicklung/Angular/1.Grundlagen/1.Grundlagen.md",
-    "4-🔥EvoSys🔥/2_FLOR/Flor-Tasks/Flor-Tasks.md",
-    "4-🔥EvoSys🔥/Floriplan Video.md",
     "1-Software entwicklung/JavaSript",
     "999999-DailyNote",
     "Untitled.canvas",
