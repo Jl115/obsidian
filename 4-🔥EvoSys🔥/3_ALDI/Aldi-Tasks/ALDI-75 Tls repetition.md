@@ -60,13 +60,13 @@ hintergrund karten version aktualisieren über einstellungen weiter unter 2 chec
 1. 
 ## 📅 - TODOs
 
-- [ ] It should be possible to repeat text-to-speech output in a similar way to DIVERA 24/7. The repetition should only refer to the voice output and not also to the alarm tone.
-- [ ] If text-to-speech is activated, it should be possible to specify the number of repetitions of the voice output in a separate field ("Wiederholung", default is 10)
-- [ ] If text-to-speech is activated, the seconds between repetitions of the voice output should be able to be specified in a separate field ("Pause", default is 60)
-- [ ] Current problem: If the alarm tone is set to mute, the voice output does not start immediately, but waits a few seconds. The voice output should start immediately.
-- [ ] Additional:
+- [x] It should be possible to repeat text-to-speech output in a similar way to DIVERA 24/7. The repetition should only refer to the voice output and not also to the alarm tone.
+- [x] If text-to-speech is activated, it should be possible to specify the number of repetitions of the voice output in a separate field ("Wiederholung", default is 10)
+- [x] If text-to-speech is activated, the seconds between repetitions of the voice output should be able to be specified in a separate field ("Pause", default is 60)
+- [x] Current problem: If the alarm tone is set to mute, the voice output does not start immediately, but waits a few seconds. The voice output should start immediately.
+- [x] Additional:
 - [ ] on getPlans add Plan type “Trainingsobjekt” colors
-- [ ] toggleTextToSpeech anders schreiben und zwar  das die überprüfung im toogleTextToSpeech ist 9
+- [x] toggleTextToSpeech anders schreiben und zwar  das die überprüfung im toogleTextToSpeech ist 9
 - [x] in serialising remove replace slash logic to allow slashes in textes (especially in marquee)
 
 
