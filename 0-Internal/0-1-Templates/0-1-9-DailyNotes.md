@@ -8,18 +8,18 @@ tags:
 # 📅 Daily Log {{date: DD-MM-YYYY}}
 
 ---
-## 🔷 Daily Tasks
-- [ ] Breakfast
-- [ ] Study something
-- [ ] Work on personal projects
-- [ ] Workout
+## 💼 Daily Tasks Work
+- [ ] ....
+- [ ] ...
+- [ ] ....
+- [ ] ....
 ## 🎯 Objectives
 - 
 ## 🚀 Working On
 - 
 ## 📕 Reminders
 - 
-## 📚 Reading
+## 📚 Notes
 - 
 ##  💬 Lingering feelings, Observations and Thoughts 
 1. Lingering Feelings
