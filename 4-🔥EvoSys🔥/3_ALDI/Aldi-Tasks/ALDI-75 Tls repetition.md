@@ -69,4 +69,6 @@ hintergrund karten version aktualisieren über einstellungen weiter unter 2 chec
 - [x] toggleTextToSpeech anders schreiben und zwar  das die überprüfung im toogleTextToSpeech ist 9
 - [x] in serialising remove replace slash logic to allow slashes in textes (especially in marquee)
 
+floriplan filtern trainingsobjekt
+
 
