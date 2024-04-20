@@ -13,10 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "999999-DailyNote/2024-04-05.md",
+                "file": "999999-DailyNote/2024-04-08.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "eae9533525727bb0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
               }
             }
           },
@@ -59,7 +69,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "999999-DailyNote/2024-04-05.md",
+                "file": "999999-DailyNote/2024-04-08.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "999999-DailyNote/2024-04-05.md"
+                "file": "999999-DailyNote/2024-04-08.md"
               }
             }
           },
@@ -199,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "999999-DailyNote/2024-04-05.md",
+                "file": "999999-DailyNote/2024-04-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "999999-DailyNote/2024-04-05.md",
+                "file": "999999-DailyNote/2024-04-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,15 +318,16 @@
       "things3-today:Open Things3 Today": false
     }
   },
-  "active": "8706c2c66d886b56",
+  "active": "eae9533525727bb0",
   "lastOpenFiles": [
+    "999999-DailyNote/2024-04-05.md",
+    "999999-DailyNote/2024-04-08.md",
     "999999-DailyNote/2024-04-04.md",
     "999999-DailyNote/2024-04-03.md",
     "999999-DailyNote/2024-04-02.md",
     "999999-DailyNote/2024-04-01.md",
     "4-🔥EvoSys🔥/3_ALDI/Aldi-Tasks/ALDI-75 Tls repetition.md",
     "999999-DailyNote/2024-04-07.md",
-    "999999-DailyNote/2024-04-05.md",
     "4-🔥EvoSys🔥/Floriplan Video.md",
     "4-🔥EvoSys🔥/2_FLOR/2_FLOR .md",
     "4-🔥EvoSys🔥/1_MYEV/Myev-Tasks/Myev-Tasks.md",
@@ -341,7 +353,6 @@
     "2-Schule/1.semester3/4.Ueka294 Frontend/Ueka 294 overview.md",
     "2-Schule/1.semester3/3.Modul426 Agile Methode (Scrum)/Modul 426.md",
     "4-🔥EvoSys🔥/4-🔥EvoSys🔥.md",
-    "4-🔥EvoSys🔥/1_MYEV/1_MYEV .md",
     "1-Software entwicklung/JavaSript",
     "999999-DailyNote",
     "Untitled.canvas",
